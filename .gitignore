@@ -1,0 +1,4 @@
+node_modules/
+src/database/ecoleta.sqlite
+src/database/ecoleta.sqlite-shm
+src/database/ecoleta.sqlite-wal
